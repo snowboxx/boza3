@@ -9,7 +9,7 @@ client.on('ready', function(){
     client.user.setPresence({
  game: { 
     type: 1,
-     url: 'https://www.twitch.tv/skwadraa',
+     url: 'https://www.twitch.tv/snowyxoxo2',
     name: 'Custom Games',
     application_id: '477187715658547201',
      assets: {
